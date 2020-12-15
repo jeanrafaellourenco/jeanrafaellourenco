@@ -7,7 +7,7 @@
 
 ## Síntese das qualificações: 
 
-> Profissional de TI há mais de 7 anos trabalhando com sistemas de gestão ERP's,  estou sempre aberto a novos desafios e buscando melhorar minhas habilidades todos os dias.
+> Profissional de TI há mais de 8 anos trabalhando com sistemas de gestão ERP's,  estou sempre aberto a novos desafios e buscando melhorar minhas habilidades todos os dias.
 
 Experiência em administração de sistemas Linux, programação shell script, suporte técnico nível 1 e 2 em ERP de gestão financeira e gestão de condomínios, testes de software, metodologias ágeis. 
 
