@@ -1,11 +1,9 @@
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Bar](https://github.com/jeanrafaellourenco/jeanrafaellourenco/blob/master/dino.gif)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Foo](https://github.com/jeanrafaellourenco/jeanrafaellourenco/blob/master/login.png)](https://jeanrafaellourenco.github.io)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jeanrafaellourenco)](https://github.com/jeanrafaellourenco)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeanrafaellourenco/)](https://www.linkedin.com/in/jeanrafaellourenco/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vidasocialzero)](https://twitter.com/vidasocialzero)
-
-<!--![Jean Lourenço's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jeanrafaellourenco&show_icons=true&hide_border=true)--!>
+jeanrafaellourenco@www ~ $ ls -l  
+total 34  
+drwxr-xr-x 2&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;4096&nbsp;&nbsp;Dez&nbsp;&nbsp;14&nbsp;&nbsp;13:27&nbsp;&nbsp;2020&nbsp;&nbsp;[Blog/](https://www.shellnoob.com.br/)  
+drwxr-xr-x 2&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;4096&nbsp;&nbsp;Dez&nbsp;&nbsp;14&nbsp;&nbsp;14:01&nbsp;&nbsp;2020&nbsp;&nbsp;[Github/](https://github.com/jeanrafaellourenco)  
+drwxr-xr-x 2&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;4096&nbsp;&nbsp;Dez&nbsp;&nbsp;14&nbsp;&nbsp;15:50&nbsp;&nbsp;2020&nbsp;&nbsp;[Linkedin/](https://www.linkedin.com/in/jeanrafaellourenco/)  
+drwxr-xr-x 2&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;4096&nbsp;&nbsp;Dez&nbsp;&nbsp;14&nbsp;&nbsp;17:41&nbsp;&nbsp;2020&nbsp;&nbsp;[Resume/](https://github.com/jeanrafaellourenco/jeanrafaellourenco/blob/master/RESUME.md)  
+drwxr-xr-x 2&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;4096&nbsp;&nbsp;Dez&nbsp;&nbsp;14&nbsp;&nbsp;17:58&nbsp;&nbsp;2020&nbsp;&nbsp;[Site/](https://jeanrafaellourenco.github.io/)  
+drwxr-xr-x 2&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;jeanrafaellourenco&nbsp;&nbsp;4096&nbsp;&nbsp;Dez&nbsp;&nbsp;14&nbsp;&nbsp;19:40&nbsp;&nbsp;2020&nbsp;&nbsp;[Twitter/](https://twitter.com/vidasocialzero)  
+ 
