@@ -57,6 +57,13 @@
 
 ---
 
+<h2 id="github_stats" align=''>GitHub Stats</h2>
+
+[![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanrafaellourenco&theme=gotham&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/jeanrafaellourenco/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jeanrafaellourenco&theme=gotham&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+
+---
+
 <div style="display: inline_block">
   Thank you for visiting my profile!
 </div>
