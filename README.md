@@ -32,8 +32,11 @@
 <h2 id="key_skills" align=''>Key Skills</h2>
 
 ✅ **Web, Mobile, and API Pentesting**  
+
 ✅ **Secure Development (AppSec)**  
+
 ✅ **Security Automation (Python, PHP, Shell Script)**  
+
 ✅ **Offensive Cybersecurity and Red Teaming**  
 
 ---
