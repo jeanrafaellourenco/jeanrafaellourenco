@@ -65,7 +65,6 @@
 
 ---
 
-<br><br>
 <div style="display: inline_block">
   Thank you for visiting my profile!
 </div>
