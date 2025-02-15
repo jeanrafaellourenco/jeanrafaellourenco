@@ -43,6 +43,8 @@
 
 <h2 id="present_status">Present Status</h3>
 
+<img width="25%" align='right' src="anon.gif">
+
 👉 Still Learning Malware Analysis & malware forensics, DevSecOps & Cloud Security.
 
 👉 Active participation in bug bounty programs.
@@ -58,12 +60,11 @@
 ---
 
 <h2 id="github_stats" align=''>GitHub Stats</h2>
-
-  <div style="display: inline_block">
-    
-   [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanrafaellourenco&theme=gotham&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/jeanrafaellourenco/github-readme-stats)
-   [![GitHub Streak](https://streak-stats.demolab.com?user=jeanrafaellourenco&theme=gotham&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats)
-  </div>
+<img align="right" width="44%" src="life-code.png"/>
+ 
+  [![Verse's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeanrafaellourenco&theme=gotham&&bg_color=00000000&hide_border=true&custom_title=%20)](https://github.com/jeanrafaellourenco/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=jeanrafaellourenco&theme=gotham&card_width=450&bg_color=00000000&hide_border=true)](https://git.io/streak-stats) 
+ <p align="left"><a href="https://github.com/jeanrafaellourenco/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeanrafaellourenco&layout=compact&theme=gotham&bg_color=00000000&hide_border=true" width="450"" /></a></p>
 
 ---
 
